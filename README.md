@@ -1,1 +1,1 @@
-simple Currencyconvertor!!
+simple Currencyconverter!!
